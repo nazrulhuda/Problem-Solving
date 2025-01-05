@@ -2,9 +2,9 @@
 
 
 import java.util.*;
-public class countDigit1 {
+public class BasicCountDigit1 {
     public static void main(String[]args){
-        int N=22233222;
+        int N=2223322;
         int digit=optimal(N);
         System.out.println(digit);
     }
