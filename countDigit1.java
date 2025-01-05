@@ -1,3 +1,6 @@
+// This is for counting digits. we can count digit by dividing my 10. For optimal approach we can use log10 approach.
+
+
 import java.util.*;
 public class countDigit1 {
     public static void main(String[]args){
