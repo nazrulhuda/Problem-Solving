@@ -1,4 +1,4 @@
-// This is for counting digits. we can count digit by dividing my 10. For optimal approach we can use log10 approach.
+// This is for counting digits. we can count digit by dividing by 10. For optimal approach we can use log10 approach.
 
 
 import java.util.*;

@@ -1,4 +1,4 @@
-// Remove Unique element by two pointer
+// left rotate using temp
 
 
 import java.util.*;
