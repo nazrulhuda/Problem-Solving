@@ -1,4 +1,4 @@
-// This is for intersection for two sorted arrays
+// This is for intersection for two sorted arrays optimal approach
 
 
 import java.util.*;
