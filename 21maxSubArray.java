@@ -1,4 +1,4 @@
-// This is for finding single value with ^. 1^1=0
+// This is for finding maxsubarray optimal
 
 
 import java.util.*;
