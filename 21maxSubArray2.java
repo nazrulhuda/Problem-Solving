@@ -1,11 +1,11 @@
-// This is for finding maxsubarray optimal
+// This is for finding maxsubarray brute
 
 
 import java.util.*;
 public class maxSubArray2 {
     public static void main(String[]args){
         int[] firstArr ={1,2,1,1,2,1,1};
-       
+
         int k=4;
         int count=0;
         int max=0;
