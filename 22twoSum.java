@@ -2,7 +2,7 @@
 
 
 import java.util.*;
-public class twoSum {
+public class  {
     public static void main(String[]args){
         int[] firstArr ={7, 11, 15, 2};
         int k=9;
