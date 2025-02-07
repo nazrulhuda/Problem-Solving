@@ -1,4 +1,4 @@
-// This is the kadanes algorithm for finding the highest sum
+// This is rearrangine positive negative
 
 
 import java.util.*;
