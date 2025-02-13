@@ -4,7 +4,7 @@
 import java.util.*;
 public class nextPermutation  {
     public static void main(String[]args){
-        int arr[] =  {2,1,5,4,3,0,0};
+        int arr[] =  {2,3,1};
         int index=-1;
         for(int i=arr.length-1; i>=1;i--){
           if(arr[i]>arr[i-1]){
@@ -13,7 +13,6 @@ public class nextPermutation  {
           }
 
         }
-        System.out.println(index);
 
        
         int threshhold=index+1;
