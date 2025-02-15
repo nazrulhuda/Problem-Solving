@@ -1,4 +1,4 @@
-// This is next permutation
+// This is for finding leaders where the are biggest on their right sides
 
 
 import java.util.*;
