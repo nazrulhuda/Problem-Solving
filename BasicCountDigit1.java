@@ -5,7 +5,7 @@ import java.util.*;
 public class BasicCountDigit1 {
     public static void main(String[]args){
         int N=2223322;
-        int digit=optimal(N);
+        int digit=brute(N);
         System.out.println(digit);
     }
 

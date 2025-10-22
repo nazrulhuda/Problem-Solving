@@ -12,22 +12,22 @@ public static void main(String[]args){
 public static int optimal(int[] digi){
     int max=-1;
     int secondLargest=-1;
-    for(int i=0; i<digi.length;i++){
-        if(digi[i]>max){
-            max=digi[i];
-   
+    
 
+    for(int i=0;i<digi.length;i++){
+        if(digi[i]>max){
+           max=digi[i];
            
         }
-        if(digi[i]<max && digi[i]>secondLargest && digi[i]!=max){
+        if(digi[i]<max && digi[i]>secondLargest){
             secondLargest=digi[i];
-    
-        }
 
-       
+        }
     }
-    
     return secondLargest;
+    
+    
+    
  
   
 }
