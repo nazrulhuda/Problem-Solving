@@ -1,5 +1,5 @@
  import java.util.*;
-public class Neetcode5EncodeDecode {
+public class Neetcode6EncodeDecode {
 
   
 
